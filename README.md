@@ -1,4 +1,5 @@
-![wallpaperflare com_wallpaper-2 2](https://github.com/user-attachments/assets/83a23177-ee0e-4c74-8d2f-8dff217f0a9e)
+![ancient-japan-background-digital-art-style](https://github.com/user-attachments/assets/bebe0e09-42eb-45bd-8b51-de3e0747a5f6)
+
 
 ```Student/University of Zurich/Switzerland```
 
