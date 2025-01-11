@@ -1,4 +1,4 @@
-## Mischa Jampen
+# **Mischa Jampen**
 
 ```Student/University of Zurich/Switzerland```
 
