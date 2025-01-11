@@ -1,4 +1,4 @@
-![ancient-japan-background-digital-art-style](https://github.com/user-attachments/assets/bebe0e09-42eb-45bd-8b51-de3e0747a5f6)
+![ancient-japan-background-digital-art-style](https://github.com/user-attachments/assets/731ba659-605a-48d9-9e9c-7d3a05c82ca0)
 
 
 ```Student/University of Zurich/Switzerland```
