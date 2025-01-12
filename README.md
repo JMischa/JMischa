@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Mischa+Jampen.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 <img src="https://66.media.tumblr.com/43ff1ae84968ffd84606207e9995a78e/tumblr_py4mvbGe6h1tgo74ho1_1280.gif" alt ="Pixel Art" align = "right" height="250" width="200">
 
 
