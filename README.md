@@ -2,7 +2,7 @@
 #
 
 <div align="right">
-  <img src="https://66.media.tumblr.com/43ff1ae84968ffd84606207e9995a78e/tumblr_py4mvbGe6h1tgo74ho1_1280.gif" height="250" width="180"alt="cyperpunk gif">
+  <img src="https://66.media.tumblr.com/43ff1ae84968ffd84606207e9995a78e/tumblr_py4mvbGe6h1tgo74ho1_1280.gif" height="250" width="200"alt="cyperpunk gif">
 </div>
 
 ## Techs
