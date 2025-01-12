@@ -1,9 +1,44 @@
-
-#
-
-<div align="right">
-  <img src="https://66.media.tumblr.com/43ff1ae84968ffd84606207e9995a78e/tumblr_py4mvbGe6h1tgo74ho1_1280.gif" height="250" width="200"alt="cyperpunk gif">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div align="left" style="flex: 1;">
+    <div id="text-gif" style="font-size: 24px; font-family: Arial, sans-serif; color: #ffffff;"></div>
+  </div>
+  <div align="right" style="flex: 1;">
+    <img src="https://66.media.tumblr.com/43ff1ae84968ffd84606207e9995a78e/tumblr_py4mvbGe6h1tgo74ho1_1280.gif" height="250" width="200" alt="cyberpunk gif">
+  </div>
 </div>
+
+<script>
+  const textGifElement = document.getElementById("text-gif");
+  const text = "Hi, welcome to my GitHub";
+  let index = 0;
+  let isDeleting = false;
+
+  function animateText() {
+    if (!textGifElement) return;
+
+    if (!isDeleting) {
+      textGifElement.textContent = text.substring(0, index);
+      index++;
+      if (index > text.length) {
+        isDeleting = true;
+        setTimeout(animateText, 1000); // Pause before deleting
+        return;
+      }
+    } else {
+      textGifElement.textContent = text.substring(0, index);
+      index--;
+      if (index < 0) {
+        isDeleting = false;
+        setTimeout(animateText, 500); // Pause before typing again
+        return;
+      }
+    }
+
+    setTimeout(animateText, isDeleting ? 50 : 100); // Speed adjustment
+  }
+
+  animateText();
+</script>
 
 ## Techs
 <div align="left">
