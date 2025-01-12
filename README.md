@@ -1,7 +1,10 @@
-![ancient-japan-background-digital-art-style](https://github.com/user-attachments/assets/731ba659-605a-48d9-9e9c-7d3a05c82ca0)
+
+#
 
 
-```Student/University of Zurich/Switzerland```
+<div align="right">
+  <img src="https://66.media.tumblr.com/43ff1ae84968ffd84606207e9995a78e/tumblr_py4mvbGe6h1tgo74ho1_1280.gif" height="200" alt="cyperpunk gif">
+</div>
 
 ## Techs
 <div align="left">
@@ -18,13 +21,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JMischa/JMischa/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/JMischa/JMischa/output/github-snake.svg" />
 </picture>
-
-## Stats
-
-![](https://github-readme-stats.vercel.app/api?username=JMischa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JMischa&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JMischa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=JMischa&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
