@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9711F9&width=435&lines=Hi%2C+everyone!+I'm+Mischa+Jampen.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-
-<div align="right">
+<div align="right" style="border: 2px solid #9711F9; padding: 10px; display: inline-block; border-radius: 10px;">
   <img src="https://66.media.tumblr.com/43ff1ae84968ffd84606207e9995a78e/tumblr_py4mvbGe6h1tgo74ho1_1280.gif" alt="Pixel Art" height="250" width="200">
 </div>
 
@@ -15,6 +14,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70" alt="vscode logo"  />
 </div><br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JMischa/JMischa/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JMischa/JMischa/output/github-snake.svg" />
