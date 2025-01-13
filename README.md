@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9711F9&width=435&lines=Hi%2C+everyone!+I'm+Mischa+Jampen.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
 
-<div align="right" style="border: 3px solid #8a2be2; border-radius: 15px; padding: 10px;">
+<div align="right">
   <img src="https://66.media.tumblr.com/43ff1ae84968ffd84606207e9995a78e/tumblr_py4mvbGe6h1tgo74ho1_1280.gif" alt="Pixel Art" height="250" width="200">
 </div>
 
