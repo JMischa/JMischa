@@ -2,7 +2,7 @@
 <img src="https://66.media.tumblr.com/43ff1ae84968ffd84606207e9995a78e/tumblr_py4mvbGe6h1tgo74ho1_1280.gif" alt ="Pixel Art" align = "right" height="250" width="200">
 
 
-<h3 style="font-size: 36px; font-weight: bold; color:rgb(108, 112, 224); text-align: left;">Techs</h3>
+<h1 align="left">Techs</h>
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python logo"  />
   <img width="12" />
